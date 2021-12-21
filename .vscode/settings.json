@@ -1,0 +1,9 @@
+{
+    " name " : " my-cool-package " ,
+    " devDependencies " : {
+      " standard " : " * "
+    },
+    " scripts " : {
+       " test " : " estándar && nodo my-tests.js "
+    }
+}
